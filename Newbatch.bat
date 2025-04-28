@@ -28,3 +28,4 @@ echo Health check complete! Log saved in health_monitor.log
 
 endlocal
 pause
+
